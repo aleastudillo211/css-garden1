@@ -1,0 +1,34 @@
+body { 
+	background-color:#070707;
+	text-align: center;
+} 
+p {
+	font-family: impact;
+	color :#FFFFFF;
+	border: 2px solid #FB0F0F; 
+	font-size: 30px
+}
+h1 {font-family: lucida console;
+	color:#F90757;
+	font-size: 50px; 
+
+}
+h2 {font-family: impact;
+	font-family: cursive;
+	color:#F90757;
+	font-size: 90px ;
+
+}
+h3 { font-family: impact;
+	font-family: cursive;
+	color:#F90757;
+	font-size: 80px;
+
+} 
+a {
+	color:#FB5909;
+}
+div { width: 1000px;
+	text-align: center;
+
+}
